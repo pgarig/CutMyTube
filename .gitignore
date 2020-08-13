@@ -1,0 +1,10 @@
+/.git/
+/.idea/
+/__pycache__/
+/build/
+/output/
+/audio.mp3
+/video.mp4
+/ytcutter.bat
+/setup.py
+/icon.ico
