@@ -33,5 +33,5 @@ python main.py
 
 ## Show your support
 
-Feel free to submit your pull request.<br>
+Feel free to submit your pull request.<br />
 Give a ⭐️ if this project helped you!
